@@ -25,11 +25,6 @@ This is my first day learning Python as part of my journey toward becoming an AI
 
 My goal is to build strong Python fundamentals and eventually become a Generative AI / AI Engineer.
 
-Sure — here is a **single, clean README.md** for your entire Day 2. You can copy-paste it directly into:
-
-`01-Python/Day-02/README.md`
-
-````markdown
 # 🐍 Day 02 — Python Fundamentals
 
 Day 02 of my **AI Engineering Journey**.
